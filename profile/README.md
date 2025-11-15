@@ -88,5 +88,3 @@ Upcoming content includes:
 - Dev environment optimization  
 
 ---
-
-## 📈 GitHub Statistics
